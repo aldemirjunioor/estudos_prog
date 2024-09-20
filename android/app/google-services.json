@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1077706114550",
+    "project_id": "aldemirj-estudos-prog",
+    "storage_bucket": "aldemirj-estudos-prog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077706114550:android:f0196b484ffffd688433d7",
+        "android_client_info": {
+          "package_name": "com.estudo.estudos_prog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7nk65_fkXPwIGloWVwwawBL5EjV1gpr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
